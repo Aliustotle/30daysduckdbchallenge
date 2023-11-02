@@ -1,11 +1,11 @@
 ## Day 8 and 9
 
 ##  Writting Queries to tackle the following tasks:
-1:- Find players with the highest OVA and POT within each club.
-2:- Calculate the average OVA for players under 25 years old and over 30 years old in each club.
-3:- List the players who are the same age within each club.
-4:- Find the player with the highest POT for each nationality
-5:- Rank players by their OVA in descending order within each club
+**1:- Find players with the highest OVA and POT within each club.
+**2:- Calculate the average OVA for players under 25 years old and over 30 years old in each club.
+**3:- List the players who are the same age within each club.
+**4:- Find the player with the highest POT for each nationality
+**5:- Rank players by their OVA in descending order within each club
 
 ##  1:- Find players with the highest OVA and POT within each club.
 ```SQL
